@@ -6,7 +6,7 @@
     "firebase": "^6.2.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "0.9.x",
+    "react-scripts": "5.0.x",
     "trim": "0.0.1"
   },
   "devDependencies": {},
